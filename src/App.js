@@ -12,7 +12,7 @@ function App() {
           BLOB STUDIO
         </p>
         <script src="https://code.jquery.com/pep/0.4.3/pep.js"></script>
-        <Blob/>
+        
 
       </header>
     </div>

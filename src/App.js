@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          BLOB STUDIO
+          CONTAINMENT STUDIO
         </p>
         <script src="https://code.jquery.com/pep/0.4.3/pep.js"></script>
         

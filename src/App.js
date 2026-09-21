@@ -10,6 +10,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           CONTAINMENT STUDIO
+
+          UNDER DEVELOPMENT
         </p>
         <script src="https://code.jquery.com/pep/0.4.3/pep.js"></script>
         
